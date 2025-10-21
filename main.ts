@@ -7,15 +7,15 @@ const I2C_ADDRESS = 0x08;
 
 // Register address.
 const REG_ADD_REVISION = 0;
-const REG_ADD_SERVO_1 = 1;
-const REG_ADD_SERVO_2 = 2;
+const REG_ADD_SERVO_1 = 5;
+const REG_ADD_SERVO_2 = 6;
 const REG_ADD_SERVO_3 = 3;
 const REG_ADD_SERVO_4 = 4;
-const REG_ADD_M1A = 5;
-const REG_ADD_M1B = 6;
-const REG_ADD_M2A = 7;
-const REG_ADD_M2B = 8;
-const REG_ADD_LB_UTH = 9;
+const REG_ADD_M1A = 1;
+const REG_ADD_M1B = 2;
+const REG_ADD_M2A = 8;
+const REG_ADD_M2B = 9;
+const REG_ADD_LB_UTH = 7;
 const REG_ADD_LB_LTH = 10;
 const REG_ADD_OV_TH = 11;
 const REG_ADD_VIN = 12;
